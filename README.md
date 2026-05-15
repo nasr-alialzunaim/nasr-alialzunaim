@@ -16,13 +16,18 @@
 
 ---
 
-## 🧠 Expertise
+## 🧠 About Me
 
-- Developing practical web applications using modern frontend and backend development concepts.
-- Building real-world software systems focused on usability, structure, and maintainability.
-- Working across frontend interfaces, backend logic, and mobile-oriented development.
-- Designing project structures that are clean, readable, and easy to improve.
-- Continuously improving through project-based learning and hands-on development.
+I am a Full-Stack Software Engineer with hands-on experience in backend, web, and software development.
+
+I work with ASP.NET Core, Web APIs, Python, PHP, C#, C++, JavaScript, and database-driven applications. I focus on building practical systems, clean backend logic, structured APIs, and real-world software solutions.
+
+- Backend development using ASP.NET Core and Web APIs
+- Building RESTful APIs and database-connected applications
+- Working with Python, PHP, C#, C++, and JavaScript
+- Developing web interfaces using HTML, CSS, and JavaScript
+- Designing practical systems such as reports, dashboards, and business tools
+- Interested in clean code, software architecture, and scalable applications
 
 ---
 
@@ -61,71 +66,80 @@
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,js,html,css&perline=7" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,php,python&perline=6" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Development-2EA44F?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,dart,js,ts,html,css&perline=9" />
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react&perline=7" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,python&perline=8" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Interfaces-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVC-68217A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Platform%20Development-0175C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile%20UI-6F42C1?style=flat-square" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=8" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-24292F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Integration-0A66C2?style=flat-square" />
 </p>
 
-### Tools & Platforms
+### API, Testing & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,visualstudio,figma&perline=8" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Workflow-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### Software Engineering Skills
+### Software Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Integration-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Code-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOLID%20Principles-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-6F42C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-24292F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-FF6F00?style=flat-square" />
 </p>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
