@@ -59,16 +59,72 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" />
+<div align="center">
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,js,html,css&perline=7" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Development-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-6F42C1?style=for-the-badge" />
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,php,python&perline=6" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-2EA44F?style=for-the-badge" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Interfaces-6F42C1?style=for-the-badge" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-24292F?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&perline=7" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Software Engineering Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Integration-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-6F42C1?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
