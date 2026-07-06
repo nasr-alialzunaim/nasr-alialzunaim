@@ -1,4 +1,8 @@
-[![My GitFut Card](https://gitfut.com/nasr-alialzunaim.png)](https://gitfut.com/nasr-alialzunaim)
+<p align="center">
+<a href="https://gitfut.com/nasr-alialzunaim">
+<img src="https://gitfut.com/nasr-alialzunaim.png?theme=dark&country=YE"/>
+</a>
+</p>
 
 <div align="center">
 
