@@ -1,7 +1,7 @@
-[![My GitFut card]
+
 <p align="center">
 <a href="https://gitfut.com/nasr-alialzunaim">
-<img src="https://gitfut.com/nasr-alialzunaim.png?theme=dark&country=YE"/>
+<img src="https://gitfut.com/nasr-alialzunaim.png?theme=dark&country=YE" alt="[![My GitFut card]"/>
 </a>
 </p>
 
