@@ -1,3 +1,5 @@
+[![My GitFut Card](https://gitfut.com/nasr-alialzunaim.png)](https://gitfut.com/nasr-alialzunaim)
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Nasraldain+Al-zunaim;Full-Stack+Software+Engineer;ASP.NET+Core+%7C+Flutter+%7C+Python+Developer;Web+API+%7C+Mobile+Apps+%7C+Backend+Systems;Building+Real-World+Software+Solutions" alt="Typing SVG" />
